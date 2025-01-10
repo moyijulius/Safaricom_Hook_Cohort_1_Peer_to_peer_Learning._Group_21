@@ -4,7 +4,7 @@
 This project is a simple train booking system database, designed to manage bookings, passengers, trains, and stations.
 
 ## ERD
-![ERD Image](ERD_Image.png)
+![ERD Image](ERD_Image.PNG)
 
 ## Database Schema
 - Tables: TrainStations, Passengers, Trains, Bookings
